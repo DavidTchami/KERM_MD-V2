@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || "¥",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`MACHINE A TUER DE ☞⌜𝔇𝔯 𝔖𝔠𝔞𝔪⌝☜`",
+  caption: process.env.CAPTION || "`BRAQUAGE DE ☞⌜𝔇𝔯 𝔖𝔠𝔞𝔪⌝☜`",
   author: process.env.PACK_AUTHER || "𝔇𝔯 𝔖𝔠𝔞𝔪.𝔡𝔰 ",
   packname: process.env.PACK_NAME || "Kerm-MD-V2",
   botname: process.env.BOT_NAME || "ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐",
